@@ -1,3 +1,5 @@
+![Project Plan (2)](https://user-images.githubusercontent.com/86530783/228633293-0a54b2a9-a8ea-41a8-9775-95a3d832fcd8.gif)
+
 ## UI Graphics
 
 >Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
