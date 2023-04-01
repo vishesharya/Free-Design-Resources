@@ -1,5 +1,29 @@
 ![Project Plan (2)](https://user-images.githubusercontent.com/86530783/228633293-0a54b2a9-a8ea-41a8-9775-95a3d832fcd8.gif)
 
+
+## Table of Contents
+
+- [UI Graphics](#ui-graphics)
+- [Fonts](#fonts)
+- [Colors](#colors)
+- [Icons](#icons)
+- [Logos](#logos)
+- [Favicons](#favicons)
+- [Icon Fonts](#icon-fonts)
+- [Stock Photos](#stock-photos)
+- [Stock Videos](#stock-videos)
+- [Stock Music & Sound Effects](#stock-music--sound-effects)
+- [Vectors & Clip Art](#vectors--clip-art)
+- [Product & Image Mockups](#product--image-mockups)
+- [HTML & CSS Templates](#html--css-templates)
+- [CSS Frameworks](#css-frameworks)
+- [CSS Methodologies](#css-methodologies)
+- [CSS Animations](#css-animations)
+- [Javascript Animation Libraries](#javascript-animation-libraries)
+- [Javascript Chart Libraries](#javascript-chart-libraries)
+- [UI Components & Kits](#ui-components--kits)
+
+
 ## UI Graphics
 
 >Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
