@@ -22,7 +22,17 @@
 - [Javascript Animation Libraries](#javascript-animation-libraries)
 - [Javascript Chart Libraries](#javascript-chart-libraries)
 - [UI Components & Kits](#ui-components--kits)
-
+- [React UI Libraries](#react-ui-libraries)
+- [Vue UI Libraries](#vue-ui-libraries)
+- [Angular UI Libraries](#angular-ui-libraries)
+- [Svelte UI Libraries](#svelte-ui-libraries)
+- [React Native UI Libraries](#react-native-ui-libraries)
+- [Design Systems & Style Guides](#design-systems--style-guides)
+- [Online Design Tools](#online-design-tools)
+- [Downloadable Design Software](#downloadable-design-software)
+- [Design Inspiration](#design-inspiration)
+- [Image Compression](#image-compression)
+- [Chrome Extensions](#chrome-extensions)
 
 ## UI Graphics
 
