@@ -1074,6 +1074,7 @@
 | [Wireframe.cc](https://wireframe.cc/)| Wireframing tool (free & paid) |
 | [Fotor](https://www.fotor.com/)| Photo editor and design maker |
 | [Pixlr](https://www.pixlr.com/)| Online photo editor |
+| [PixelArtHive](https://pixelarthive.com/) | Free image-to-pixel-art conversion and pixel art resizing with local browser processing. |
 | [Animoto Video Maker](https://animoto.com/apps/online-video-maker)| Make videos online |
 | [RemoveBG](https://www.remove.bg/)| Remove image backgrounds |
 | [Photo Creator](https://photos.icons8.com/creator)| Create your own photos instead of searching for stock |
